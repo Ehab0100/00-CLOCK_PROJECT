@@ -3,7 +3,7 @@
 **** system description: ****
 
 Simple clock project that simulates real time using
-- green led represents second
+- green led' toggle represents second
 - 2_Seven segment represents minutes
 - 2_Seven segment represents houres
 
