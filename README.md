@@ -1,8 +1,8 @@
-# Time Clock Project
+# Clock Project
 
 **** system description: ****
 
-Simple clock project that simulate real time usind 
+Simple clock project that simulates real time using
 - green led represents second
 - 2_Seven segment represents minutes
 - 2_Seven segment represents houres
