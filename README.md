@@ -32,3 +32,7 @@ Each level of them contains some of driver which control the whole system.
      • Application ➔ final level of the system.
   
 So, when the system starts it will loop forever for changing the state of Clock
+
+<p>
+
+https://github.com/Ehab0100/CLOCK_PROJECT/assets/130321359/f8989923-3129-46e5-8404-f2a62ede6399
